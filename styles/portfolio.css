@@ -154,9 +154,14 @@ font-weight: 600;
   background-color: white;
 }
 
+/* what i do section */
 
 .what-i-do{
   border-radius: 10px;
   text-align: center;
   margin-top: 130px;
+}
+
+.skill-container{
+display: flex;
 }
