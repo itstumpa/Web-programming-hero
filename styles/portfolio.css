@@ -50,6 +50,11 @@ nav ul li a{
 
 }
 
+.hero-section .description{
+  color: #757575;
+}
+
+
 .btn-primary{
   background-color: #FD6E0A;
   color: rgb(255, 255, 255);
@@ -256,6 +261,8 @@ footer textarea{
   width: 60%;
   border: none;
     font-size: 15px;
+    padding: 10px 20px;
+    margin-bottom: 24px;
 
 }
 footer input[type="submit"] {
@@ -273,4 +280,9 @@ footer input[type="submit"] {
   margin-top: 10px;
   text-align: center;      /* Optional: centers the text inside button */
   width: 150px;
+}
+
+
+.fa-solid{
+  padding-right: 4px;
 }
